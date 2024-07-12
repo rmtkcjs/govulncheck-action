@@ -1,4 +1,4 @@
-name: "Govulncheck Action"
+name: "Govulncheck-Action"
 description: "Run Go vulerability checker"
 author: "Kevin Mulvey"
 inputs:
